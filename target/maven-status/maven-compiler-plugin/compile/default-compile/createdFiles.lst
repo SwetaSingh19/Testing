@@ -1,0 +1,4 @@
+PageObject\PetzoneSpecification.class
+collect\Setup.class
+PageObject\PetzoneHome.class
+collect\ExtendReport.class

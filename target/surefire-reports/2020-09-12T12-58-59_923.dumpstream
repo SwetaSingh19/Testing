@@ -1,0 +1,4 @@
+# Created at 2020-09-12T12:59:01.830
+Boot Manifest-JAR contains absolute paths in classpath 'F:\workspace java core\MarshalPetZone\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
